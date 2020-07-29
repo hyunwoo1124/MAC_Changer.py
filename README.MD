@@ -11,3 +11,8 @@ Libraries Used:
 Description:
   python ./macChanger.py -i <INTERFACE> -m <NEW_MAC_ADDRESS>
   python ./macChanger.py -h # This will bring a helper menu!
+
+
+Credits to:
+  
+  ZSecurity
